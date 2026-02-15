@@ -61,8 +61,8 @@
 
 <div class="container" id="contact">
   <h2>Contact Us</h2>
-  <p>Email: info@mypharmacy.com</p>
-  <p>Phone: +1234567890</p>
+  <p>Email: sameersameer4703@gmail.com</p>
+  <p>Phone: +918778179943</p>
 </div>
 
 <footer>
